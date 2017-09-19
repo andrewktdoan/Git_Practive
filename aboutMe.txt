@@ -1,4 +1,7 @@
 Name: Andrew Doan
 Project Goal: Master Git!!!
 Favorite TV Show: Game of Thrones
-Favorite fruit: Dragon Fruit
+Fvorite fruit: Dragon Fruit
+Favorite color: Medium Grey
+
+
